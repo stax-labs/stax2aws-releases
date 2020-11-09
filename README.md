@@ -9,9 +9,8 @@ This project hosts releases of the stax2aws CLI.
 If you're on OSX you can install stax2aws using homebrew!
 
 ```
-brew tap stax-labs/stax2aws-releases
+brew tap stax-labs/homebrew-taps
 brew install stax2aws
-stax2aws --version
 ```
 
 # License
