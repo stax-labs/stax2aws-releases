@@ -6,7 +6,7 @@ This project hosts releases of the stax2aws CLI.
 
 ### OSX
 
-If you're on OSX you can install saml2aws using homebrew!
+If you're on OSX you can install stax2aws using homebrew!
 
 ```
 brew tap stax-labs/stax2aws-releases
