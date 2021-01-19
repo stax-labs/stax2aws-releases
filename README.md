@@ -23,4 +23,4 @@ release](https://github.com/stax-labs/stax2aws-releases/releases/latest) from th
 
 # License
 
-Copyright Stax Pty. Ltd.
+Copyright Stax-WMS Pty Ltd.
