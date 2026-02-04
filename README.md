@@ -18,8 +18,8 @@ brew install stax2aws
 Windows users should download the [latest
 release](https://github.com/stax-labs/stax2aws-releases/releases/latest) from the Releases page.
 
-* For 32-bit Windows, choose _stax2aws\_&lt;version&gt;\_windows\_386.zip_
-* For 64-bit Windows, choose _stax2aws\_&lt;version&gt;\_windows\_amd64.zip_
+* For 64-bit Windows (Intel/AMD), choose _stax2aws\_&lt;version&gt;\_windows\_amd64.zip_
+* For 64-bit Windows (ARM), choose _stax2aws\_&lt;version&gt;\_windows\_arm64.zip_
 
 # License
 
